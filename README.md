@@ -1,12 +1,17 @@
-## Unity projects  
-- https://github.com/hvoya228/unity-MazeRunner-game
-- https://github.com/hvoya228/whyfly-windows-build
-- https://github.com/hvoya228/unity-evenOddsNumbers-perceptron
+## Guides/Patterns/Explanations  
+- https://github.com/hvoya228/unity-object-pool-pattern
 - https://github.com/hvoya228/unity-solid-explanation
 - https://github.com/hvoya228/unity-singleton-pattern-implementation
 - https://github.com/hvoya228/unity-timer-with-2d-ui-ideas
-- https://github.com/hvoya228/singlesaver-unity-project
+
+## Libraries  
+- https://github.com/hvoya228/singlesaver-unity-library-project
+   
+## Games  
+- https://github.com/hvoya228/unity-MazeRunner-game
+- https://github.com/hvoya228/whyfly-game-windows-build
 - https://github.com/hvoya228/ballwall-unity-game
+- https://github.com/hvoya228/xonix-game-remake
 
 ## Web projects  
 - https://github.com/hvoya228/online-game-microservices
@@ -23,7 +28,7 @@
 - https://github.com/hvoya228/cryptorate-telegram-bot
 
 ## Desktop apps  
-- https://github.com/hvoya228/taskmaker-desktop-app
+- https://github.com/hvoya228/taskmaker-wpf-app
 
 ## Data analysis  
 - https://github.com/hvoya228/data-analysis-time-series
