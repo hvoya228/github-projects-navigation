@@ -23,6 +23,7 @@
 - https://github.com/hvoya228/unity-evenOddsNumbers-perceptron
 - https://github.com/hvoya228/xor-neural-network-problem-solving
 - https://github.com/hvoya228/training-evenOddsNumbers-perceptron
+- https://github.com/hvoya228/unity-letters-recognition-ai
 
 ## Telegram bots
 - https://github.com/hvoya228/cryptorate-telegram-bot
@@ -49,4 +50,3 @@
 - https://github.com/hvoya228/data-analysis-clusterization-Kmeans-Kmedoids--practise
 - https://github.com/hvoya228/data-analysis-clusterization-ierarchy-DBSCAN--practise
 - https://github.com/hvoya228/data-analysis-associative-rules-practise
-- 
