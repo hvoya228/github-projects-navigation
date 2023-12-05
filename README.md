@@ -25,6 +25,7 @@
 - https://github.com/hvoya228/xor-neural-network-problem-solving
 - https://github.com/hvoya228/training-evenOddsNumbers-perceptron
 - https://github.com/hvoya228/unity-letters-recognition-ai
+- https://github.com/hvoya228/csharp-genetic-algorythm
 
 ## Telegram bots
 - https://github.com/hvoya228/cryptorate-telegram-bot
