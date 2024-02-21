@@ -29,7 +29,8 @@
 - https://github.com/hvoya228/csharp-genetic-algorythm
 
 ## Telegram bots
-- https://github.com/hvoya228/cryptorate-telegram-bot
+- https://github.com/hvoya228/encryption-hub-telegram-bot  
+- https://github.com/hvoya228/cryptorate-telegram-bot 
 
 ## Desktop apps  
 - https://github.com/hvoya228/taskmaker-wpf-app
