@@ -13,6 +13,11 @@
 - https://github.com/hvoya228/it-slang-api
 - https://github.com/hvoya228/textsmiles-graphql-api
 
+## React/JS
+- https://github.com/hvoya228/code-slang-hub-website
+- https://github.com/hvoya228/js-flappy-bird-browser-game
+- https://github.com/hvoya228/js-nasty-cactuses-browser-game
+
 ## Telegram bots
 - https://github.com/hvoya228/encryption-hub-telegram-bot  
 - https://github.com/hvoya228/cryptorate-telegram-bot 
