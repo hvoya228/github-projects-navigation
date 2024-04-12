@@ -1,5 +1,5 @@
 ## Unity  
-- https://github.com/hvoya228/unity-MazeRunner-game
+- https://github.com/hvoya228/i-hate-mazes-game
 - https://github.com/hvoya228/unity-timer-with-2d-ui-ideas
 - https://github.com/hvoya228/singlesaver-unity-library-project
 - https://github.com/hvoya228/unity-letters-recognition-ai
