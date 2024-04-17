@@ -8,7 +8,7 @@
 ## APIs  
 - https://github.com/hvoya228/online-game-microservices
 - https://github.com/BroccoliCodeman/what-to-eat-microservices
-- https://github.com/hvoya228/maze-runner-records-api
+- https://github.com/hvoya228/i-hate-mazes-records-api
 - https://github.com/hvoya228/it-slang-api
 - https://github.com/hvoya228/textsmiles-graphql-api
 
